@@ -30,11 +30,36 @@ body {
     color: #ecf0f1;
 }
 
-p {
 
+p {
     font-size: 15px;
 }
 
-.container {
-  align-items: column;
+#servicos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.portifolio {
+    background-color:#6ab04c;
+    margin-top: 0px;
+    color: #ecf0f1;
+}
+
+.img-port {
+    display: flex;
+    margin-bottom: 25px;
+    
+}
+
+.img-ti {
+    display: flex;
+    margin-bottom: 25px;
+    margin-left: 280px;
+}
+
+.end {
+    background-color: #ecf0f1;
+    text-align: center;
+    margin-top: 15px;
 }
