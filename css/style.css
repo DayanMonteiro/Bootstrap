@@ -1,0 +1,40 @@
+
+
+body {
+        font: 20px Arial, sans-serif;
+    }
+
+.navbar {
+        background-color: #05c46b !important;
+    } 
+  
+
+.quem-somos {
+    background-color: #1abc9c;
+    color: #ecf0f1;
+}
+
+.nav-item:hover {
+    background-color:#05c46b ;
+    color: black;
+    transition: .3s;
+}
+
+.margin {
+    padding-top: 50px;
+}
+
+.servicos {
+    margin-top: 0px;
+    background-color:#16a085 ;
+    color: #ecf0f1;
+}
+
+p {
+
+    font-size: 15px;
+}
+
+.container {
+  align-items: column;
+}
